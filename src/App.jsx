@@ -10,6 +10,7 @@ import {
   StarsCanvas,
   Works,
 } from "./components";
+import Credits from "./components/Credits";
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
           <StarsCanvas />
         </div>
       </div>
+      <Credits />
     </BrowserRouter>
   );
 };

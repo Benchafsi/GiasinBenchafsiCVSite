@@ -133,11 +133,11 @@ const projects = [
     description: "Multiplayer turn based fantasy RPG",
     tags: [
       {
-        name: "unity",
+        name: "Unity",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Mongodb",
         color: "green-text-gradient",
       },
       {

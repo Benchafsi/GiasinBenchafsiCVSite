@@ -1,8 +1,0 @@
-Model Information:
-* title:	Robot
-* source:	https://sketchfab.com/3d-models/robot-0eff23412e48470bae690d87bd1726f8
-* author:	stylo0 (https://sketchfab.com/stylo0)
-
-Model License:
-* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
-* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
